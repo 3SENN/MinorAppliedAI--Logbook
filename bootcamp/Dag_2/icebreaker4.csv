@@ -1,0 +1,482 @@
+route;age;wifi;travel;game;pet;instrument
+GD;20;4;90;osu;no;
+SE;20;4;15;league of legends;;string
+TI;21;4;45;minecraft;no;
+TI;21;4;20;elder scrolls;;string
+GD;24;4;30;world of warcraft;no;
+SE;20;4;40;league of legends;no;string
+TI;20;3;90;call of duty;no;string
+TI;22;4;45;borderlands;yes;string
+TI;23;4;15;team fortress;no;string
+BIM;25;4;45;fifa;no;
+SE;20;5;15;league of legends;yes;string
+TI;21;5;45;minecraft;no;
+SE;;;60;city skylines;yes;
+SE;21;4;45;civilization;no;
+BIM;23;5;40;final fantasy;no;
+BIM;23;;30;arkham knight;no;
+GD;21;4;60;rocket league;yes;string
+SE;23;4;90;warhammer;yes;keyboard
+SE;23;4;60;warhammer;;string
+BIM;22;4;30;smite;yes;aerophone
+SE;20;4;15;league of legends;yes;keyboard
+SE;26;4;45;hades;yes;
+TI;21;4;20;elder scrolls;yes;string
+GD;24;4;30;world of warcraft;no;
+GD;21;4;30;league of legends;no;
+SE;20;4;80;;yes;
+SE;20;4;35;fortnite;yes;
+SE;21;4;25;;;
+SE;26;4;120;fortnite;;
+SE;21;4;45;gta;yes;
+SE;20;4;35;fortnite;yes;
+SE;28;4;50;arma;;
+SE;24;4;60;gta;yes;
+SE;26;4;120;fortnite;;
+SE;21;4;45;gta;yes;
+TI;19;4;35;valorant;yes;string
+TI;25;;45;valorant;yes;keyboard
+TI;21;3;45;dark souls;no;aerophone
+TI;35;4;60;zelda;no;string
+BIM;21;4;60;halo;yes;
+GD;21;;25;counter strike;yes;
+TI;23;;15;team fortress;no;
+TI;25;;45;valorant;yes;
+BIM;21;;60;halo;yes;
+TI;21;;45;dark souls;no;
+BIM;23;4;40;final fantasy;no;
+SE;21;4;45;civilization;no;
+TI;35;4;60;zelda;no;string
+SE;;;50;;yes;
+TI;21;4;45;dark souls;no;
+TI;23;;15;team fortress;;string
+TI;20;;90;call of duty;no;string
+TI;21;;45;dark souls;no;aerophone
+SE;20;;30;bloodborne;yes;aerophone
+SE;20;;25;;no;string
+GD;21;4;45;warhammer;yes;
+GD;21;4;25;counter strike;yes;
+GD;23;4;45;divinity;yes;
+CB;20;4;45;counter strike;yes;keyboard
+SE;21;4;60;world of warcraft;yes;
+SE;20;4;60;forza horizon;no;
+SE;21;4;55;fallout;yes;keyboard
+SE;25;4;60;;yes;
+GD;20;;90;;Yes;keyboard
+GD;20;5;30;league of legends;No;
+TI;22;5;45;factorio;No;
+GD;24;4;30;world of warcraft;No;
+SE;20;4;15;league of legends;Yes;string
+ME;19;4;35;valorant;Yes;string
+TI;35;4;60;zelda;no;string
+BIM;21;4;60;halo;Yes;
+GD;21;4;45;warhammer;Yes;
+SE;;4;50;city skylines;Yes;
+TI;21;3;;dark souls;no;aerophone
+ME;19;4;;falorent;yes;string
+GD;19;4;;hitman;yes;
+SE;21;4;;civilization;no;
+TI;35;4;60;zelda;no;string
+TI;25;4;45;valorant;yes;keyboard
+TI;35;4;60;zelda;no;string
+;21;4;45;;no;aerophone
+BIM;21;4;60;halo;yes;
+GD;21;4;25;counter strike;yes;
+ME;19;4;35;valorant;yes;string
+TI;35;4;60;zelda;no;string
+BIM;21;4;60;halo;yes;
+TI;21;3;45;dark souls;no;
+GD;21;4;45;warhammer;yes;
+SE;;;50;city skylines;yes;
+Se;20;2;25;;no;string
+Ti;23;4;15;team fortress;no;string
+Ti;22;4;40;borderlands;yes;string
+Ti;21;4;45;dark souls;no;aerophone
+Gd;21;4;40;counter strike;no;
+BIM;20;5;45;skyrim;yes;
+CS;20;2;45;fifa;yes; keyboard
+GD;20;5;45;league of legends;yes;
+CS;20;5;45;counter strike;yes; keyboard
+SE;20;5;45;fifa;yes; keyboard
+SE;20;4;40;league of legends;no;string
+TI;20;3;90;call of duty;no;string
+TI;22;4;45;borderlands;yes;string
+TI;23;4;15;team fortress;no;string
+BIM;25;4;45;fifa;no;
+GD;21;5;55;rocket league;yes;string
+GD;21;3;40;paladins;yes;keyboard
+SE;23;4;90;warhammer;yes;keyboard
+SE;23;4;60;warhammer;no;string
+BIM;22;4;30;smite;yes;aerophone
+SE;26;4;120;call of duty;no;
+SE;28;4;50;arma;no;
+SE;24;4;60;fortnite;no;
+SE;20;4;35;fortnite;yes;
+SE;21;4;45;gta;yes;
+TI;21;5;20;elder scrolls;yes;string
+SE;20;4;15;league of legends;yes;
+SE;26;4;45;hades;yes;
+SE;20;4;30;bloodborne;yes;aerophone
+ME;20;2;53;apex legends;yes;aerophone
+GD;21;;30;league of legends;no;
+TI;21;;45;minecraft;no;
+SE;26;;45;hades;yes;
+GD;24;;30;world of warcraft;no;
+SE;20;;15;league of legends;yes;
+ME;19;4;35;valorant;yes;string
+TI;35;4;60;zelda;no;string
+BIM;21;4;60;halo;yes;
+TI;21;4;45;dark souls;;
+GD;21;4;45;warhammer;yes;
+SE;;;50;city skylines;yes;
+GD;21;5;55;rocket league;yes;string
+GD;21;3;40;paladins;yes;keyboard
+SE;23;4;90;warhammer;yes;keyboard
+SE;23;4;60;warhammer;;string
+BIM;22;4;30;smite;yes;aerophone
+SE;21;4;50;call of duty;yes;
+SE;24;4;40;minecraft;yes;string
+SE;26;4;120;fortnite;no;
+SE;20;4;80;;yes;
+SE;21;4;25;fortnite;no;
+SE;28;4;50;arma;no;
+SE;21;4;60;world of warcraft;yes;
+SE;21;5;60;gta;no;
+SE;21;4;55;fallout;yes;keyboard
+SE;25;4;60;;yes;
+GD;19;4;65;;yes;
+SE;21;4;45;;no;
+EE;19;4;90;;no;
+TI;35;4;60;;no;
+ME;21;4;50;;yes;
+SE;21;4;45;civilization;no;
+EE;19;4;90;pubg;no;
+TI;35;4;60;zelda;no;string
+GD;19;4;65;hitman;yes;
+SE;20;4;60;forza horizon;no;
+SE;25;4;60;;yes;
+SE;21;5;60;gta;no;
+SE;21;4;55;fallout;yes;keyboard
+SE;21;4;60;world of warcraft;yes;
+SE;21;4;60;gta;no;
+SE;20;4;60;forza horizon;no;
+SE;21;4;55;fallout;yes;keyboard
+;20;4;47;Elden Ring;no;
+SE;18;5;15;Valorant;no;
+SE;19;5;43;Minecraft;no;
+SE;23;4;15;The Witcher;no;keyboard
+SE;23;4;15;The Witcher;no;keyboard
+SE;23;4;15;The Witcher;no;keyboard
+SE;19;5;43;huniepop 2;Yes;
+SE;26;3;30;Rocket league ;yes;
+SE;22;2;240;League of Legends;Yes;
+SE;22;2;50;Sims;Yes;keyboard
+SE;22;2;50;Sims;Yes;keyboard
+SE;19;5;20;Cities Skylines;no;
+SE;19;5;20;GTA;no;
+SE;19;5;43;Minecraft;no;aerophone
+SE;19;5;20;Cities Skylines;no;
+SE;18;5;15;Valiant;no;
+;18;0;15;Valorant;no;string
+SE;18;5;15;Roblox;no;string
+SE;23;1;15;Call of Duty;Yes;
+SE;20;3;40;Devil May Cry;Yes;string
+SE;20;4;57;Elden Ring;no;
+SE;18;5;15;Valorant;;string
+SE;20;57;57;Elden Ring;no;
+SE;24;4;45;Tekken;no;aerophone
+SE;18;4;15;Valorant;no;
+TI;23;3;45;Skyrim;yes;
+SE;19;0;60;Valorant;Yes;idiophone
+SE;19;2;61;Valorant;Yes;idiophone
+SE;22;3;50;Mario Kart;Yes;keyboard
+SE;19;3;45;Sims;no;keyboard
+SE;23;1;15;Call of Duty;Yes;
+SE;25;4;80;Rocket league ;Yes;
+SE;19;5;23;My Friend Peppa Pig;no;
+TI;23;3;45;Skyrim;Yes;
+SE;19;5;20;Minecraft;no;
+SE;24;4;40;Red Dead Redemption;no;string
+SE;22;2;50;Sims;yes;keyboard
+SE;21;4;40;Zelda;no;keyboard
+TI;23;3;20;FIFA;Yes;keyboard
+SE;19;5;43;Minecraft;no;
+SE;24;4;15;The Witcher;no;string
+SE;25;4;80;Rocket league ;Yes;
+SE;25;4;80;Rocket league ;Yes;
+SE;25;4;80;Rocket league ;no;
+TI;23;4;;Schaken;yes;string
+SE;22;0;70;Guilty Gear;yes;string
+TI;23;4;15;Schaken;Yes;string
+GD;19;2;45;Ark Survival;no;string
+SE;19;0;25;Osu!;no;string
+TI;21;3;95;Schaken;no;
+TI;23;4;15;chess;Yes;string
+SE;18;4;15;Valorant;no;
+TI;23;4;20;FIFA;Yes;keyboard
+TI;23;3;45;skyrim;Yes;
+TI;23;4;20;FIFA;Yes;keyboard
+SE;21;5;45;Bannerlord;yes;string
+TI;23;4;20;FIFA;Yes;
+SE;22;3;120;RuneScape;no;aerophone
+ti;23;4;20;Schaken;yes;string
+SE;24;4;15;The Witcher;no;keyboard
+CS;20;4;45;Forza horizon;no;string
+CE;20;4;45;Forza horizon;no;string
+TI;21;3;95;Chess;no;
+TI;21;5;60;Rocket league ;no;
+GD;18;2;45;Minecraft;no;keyboard
+GD;19;2;45;Ark Survival;no;string
+SE;21;5;45;Bannerlord;Yes;string
+ti;23;4;80;Rocket league ;yes;
+SE;25;4;80;Rocket league ;Yes;
+CS;20;2;90;FIFA;Yes;keyboard
+SE;23;1;15;Call of Duty;Yes;
+TI;25;3;30;RuneScape;no;string
+SE;20;4;50;Elden Ring;no;
+SE;20;4;57;Elden Ring;no;
+SE;19;5;20;Red Dead Redemption;Yes;
+CS;23;5;20;Oldschool Runescape;Yes;membranophone
+TI;23;4;15;Chess;Yes;string
+GD;19;2;45;Ark Survival;Yes;string
+ti;23;3;20;FIFA;yes;keyboard
+SE;30;4;50;Binding of Isaac;no;aerophone
+TI;23;4;20;FIFA;yes;
+SE;20;4;57;Elden Ring;no;
+SE;19;5;43;hday;no;
+GD;18;2;45;Minecraft;no;keyboard
+CS;20;4;75;Alderin;no;
+CS;23;5;20;RuneScape;Yes;membranophone
+SE;19;0;25;Osu!;no;string
+SE;23;1;15;Call of Duty;Yes;
+SE;19;3;45;Sims;no;
+SE;19;4;57;Elden Ring;no;
+SE;23;1;15;Call of Duty;Yes;
+TI;23;4;15;Chess;Yes;string
+TI;21;3;95;Chess;no;
+SE;24;4;35;Candy Crush;no;string
+SE;20;4;75;Alderin;Yes;
+SE;24;4;40;Red Dead Redemption;no;string
+CS;23;5;20;RuneScape;yes;membranophone
+SE;25;4;80;Rocket league ;yes;
+SE;19;0;25;Osu!;no;string
+GD;18;2;45;Minecraft;no;keyboard
+TI;23;4;23;FIFA;yes;keyboard
+TI;23;4;20;FIFA;Yes;keyboard
+TI;23;4;20;FIFA;Yes;
+SE;19;5;60;Overwatch;no;
+CS;19;5;90;CSGO;no;
+SE;23;1;15;Call of Duty;Yes;
+GD;19;2;105;Ark Survival;no;string
+SE;25;4;80;Rocket league ;no;
+SE;22;3;120;RuneScape;no;string
+TI;21;5;60;Rocket league ;no;
+SE;20;3;40;Devil May Cry;yes;string
+CS;20;4;45;Forza horizon;no;string
+SE;21;5;45;Bannerlord;Yes;string
+SE;21;5;30;League of Legends;no;keyboard
+SE;26;3;30;Rocket league ;Yes;
+TI;25;3;30;RuneScape;no;keyboard
+SE;25;4;80;Rocket league ;Yes;
+SE;26;3;20;Rocket league ;Yes;
+TI;23;4;15;Chess;Yes;string
+TI;23;4;20;FIFA;Yes;keyboard
+SE;21;5;45;Bannerlord;Yes;
+TI;23;3;45;Skyrim;yes;
+CS;20;2;90;FIFA;Yes;keyboard
+CS;23;5;20;Oldschool Runescape;Yes;membranophone
+SE;21;5;45;Bannerlord;Yes;
+TI;21;5;60;Rocket league ;no;
+CS;20;2;90;FIFA;Yes;keyboard
+TI;21;3;95;Schaken;no;
+GD;18;2;45;Minecraft;no;keyboard
+SE;26;3;30;Rocket league ;no;
+CS;19;2;90;FIFA;Yes;keyboard
+SE;22;2;50;Sims;Yes;keyboard
+TI;23;4;20;FIFA;Yes;keyboard
+SE;26;3;30;Rocket league ;Yes;
+TI;25;3;30;RuneScape;Yes;keyboard
+CS;23;5;20;Oldschool Runescape;Yes;membranophone
+TI;21;5;60;Rocket league ;no;
+CS;20;2;120;FIFA;Yes;
+GD;19;2;45;The Witcher;no;keyboard
+GD;18;2;45;Minecraft;no;keyboard
+CS;23;5;20;RuneScape;Yes;membranophone
+TI;21;3;95;Tetris;no;
+CS;23;5;30;Oldschool Runescape;no;
+CS;;5;20;RuneScape;Yes;membranophone
+CS;20;4;45;Forza horizon;no;
+GD;19;2;45;Ark Survival;no;string
+CS;20;4;45;Forza horizon;no;membranophone
+SE;19;5;15;Ark Survival;no;string
+SE;21;5;45;Bannerlord;Yes;string
+CS;20;2;90;FIFA;Yes;
+TI;23;4;20;Schaken;Yes;string
+CS;20;2;120;FIFA;Yes;keyboard
+TI;23;4;15;chess;Yes;string
+GD;18;2;45;Minecraft;no;keyboard
+GD;18;2;45;Minecraft;no;keyboard
+SE;26;3;25;Rocket league ;Yes;
+TI;23;3;45;Skyrim;Yes;
+SE;21;5;45;Minecraft;no;keyboard
+CS;23;5;20;Oldschool Runescape;Yes;membranophone
+SE;22;3;120;RuneScape;no;aerophone
+SE;23;1;15;Call of Duty;Yes;
+SE;20;3;40;Devil May Cry;Yes;string
+CS;20;2;120;FIFA;Yes;keyboard
+CS;19;5;90;CSGO;no;keyboard
+TI;21;5;60;Rocket league ;no;string
+SE;22;2;50;Sims;Yes;keyboard
+SE;18;4;15;Valorant;no;
+CS;23;4;25;Hearthstone;yes;
+GD;19;2;45;Ark Survival;no;string
+CS;20;4;45;Forza horizon;no;string
+CS;23;5;20;RuneScape;Yes;membranophone
+SE;19;5;20;Red Dead Redemption;no;
+SE;26;3;25;Rocket league ;Yes;keyboard
+CS;23;5;20;RuneScape;Yes;membranophone
+TI;25;4;30;Oldschool Runescape;no;keyboard
+CS;19;5;90;CSGO;no;
+SE;18;4;15;Valorant;no;membranophone
+SE;24;4;35;Candy Crush;no;string
+SE;22;3;15;RuneScape;no;string
+SE;19;5;20;Minecraft;no;keyboard
+TI;21;4;15;Schaken;no;string
+SE;19;5;43;Subway Surfers;no;string
+SE;18;4;15;Valorant;no;string
+GD;20;4;75;MInecraft;Yes;keyboard
+SE;22;3;120;RuneScape;no;aerophone
+TI;22;4;50;FIFA;no;
+SE;21;3;53;Europa Universalis;Yes;
+CS;23;4;25;Hearthstone;Yes;
+SE;22;4;43;Binding of Isaac;Yes;string
+CS;20;4;60;Valorant;Yes;
+SE;22;5;60;Valorant;no;
+SE;19;0;25;Osu!;no;string
+SE;26;4;40;dead space;no;keyboard
+SE;22;5;60;Valorant;no;
+SE;30;4;50;Binding of Isaac;no;aerophone
+SE;27;4;43;Binding of Isaac;Yes;
+SE;19;4;60;Overwatch;no;
+SE;21;5;30;Zelda;yes;
+SE;22;0;80;Guilty Gear;yes;string
+SE;22;5;60;Valorant;Yes;
+SE;19;0;25;Osu!;no;string
+SE;22;2;10;Rocket league ;no;keyboard
+TI;20;4;60;GTA;no;keyboard
+SE;22;5;63;Fallout: New Vegas;Yes;string
+SE;21;3;53;Europa Universalis;Yes;
+SE;26;4;40;dead space;no;keyboard
+SE;22;5;63;Fallout: New Vegas;Yes;string
+GD;21;5;60;The Last of Us ;Yes;string
+SE;22;5;60;Valorant;no;
+CS;20;4;60;Valorant;Yes;aerophone
+CS;20;4;60;Valorant;Yes;
+SE;24;4;40;Red Dead Redemption;no;string
+TI;21;4;75;League of Legends;no;
+SE;19;0;25;Osu!;no;string
+GD;24;4;60;Destiny 2;no;
+GD;24;4;60;Destiny 2;no;
+SE;27;4;43;Binding of Isaac;Yes;
+SE;22;5;60;Valorant;no;
+TI;22;4;50;FIFA;no;
+SE;23;5;40;Call of Duty;no;
+SE;22;2;15;Rocket league ;no;string
+GD;20;3,5;75;League of Legends;Yes;
+SE;22;0;70;Guilty Gear;Yes;string
+CS;23;4;25;Hearthstone;Yes;
+SE;21;5;30;League of Legends;no;keyboard
+GD;24;4;60;Destiny 2;no;
+SE;21;3;53;Europa Universalis;Yes;
+SE;30;4;50;Binding of Isaac;no;aerophone
+TI;21;4;75;League of Legends;no;
+SE;24;4;40;Red Dead Redemption;no;
+SE;20;5;30;Rocket league ;Yes;
+SE;26;4;50;dead space;no;string
+SE;22;0;80;Guilty Gear;Yes;keyboard
+SE;19;5;60;Overwatch;no;
+SE;24;4;15;Red Dead Redemption;no;string
+SE;24;4;15;The Witcher;no;keyboard
+SE;21;3;53;Europa Universalis;Yes;
+SE;21;3;53;Europa Universalis;Yes;
+SE;19;5;60;Overwatch;no;
+SE;22;0;70;Guilty Gear;Yes;string
+SE;21;5;30;League of Legends;no;keyboard
+TI;21;4;75;League of Legends;no;
+TI;20;4;60;GTA;no;keyboard
+ti;22;4;50;FIFA;no;
+SE;21;5;30;League of Legends;no;keyboard
+SE;30;4;50;Binding of Isaac;no;aerophone
+SE;24;4;45;tekken;no;aerophone
+SE;19;3;45;Sims;no;
+SE;21;4;35;Zelda;Yes;
+SE;22;5;63;Fallout: New Vegas;Yes;string
+SE;22;0;70;League of Legends;Yes;string
+SE;24;4;40;Red Dead Redemption;no;
+SE;22;0;70;Guilty Gear;Yes;
+SE;24;4;35;Candy Crush;Yes;string
+SE;20;5;30;Rocket league ;Yes;
+GD;20;3,5;75;League of Legends;Yes;
+TI;22;4;50;FIFA;no;
+SE;30;4;50;Binding of Isaac;no;aerophone
+ti;20;4;60;GTA;no;keyboard
+SE;22;5;63;Fallout: New Vegas;Yes;string
+GD;21;5;60;The Last of Us;Yes;string
+SE;22;5;60;Valorant;no;
+TI;22;4;50;FIFA;no;
+TI;20;4;60;GTA;no;keyboard
+SE;22;3;50;mario kart;yes;string
+GD;21;5;80;The Last Of Us;no;string
+SE;22;5;63;Forza horizon;yes;string
+SE;22;0;70;Guilty Gear;Yes;string
+GD;22;5;80;Minecraft;Yes;keyboard
+SE;23;5;40;Call of Duty;no;
+SE;19;5;60;overwatch;no;
+GD;22;5;60;Minecraft;yes;keyboard
+SE;22;2;10;Rocket league ;no;keyboard
+SE;23;5;40;Call of Duty;no;
+SE;24;4;35;Candy Crush;no;string
+SE;27;4;43;Binding of Isaac;yes;
+TI;20;4;60;GTA;no;keyboard
+SE;23;5;40;Call of Duty;no;
+SE;23;5;40;Call of Duty;no;
+SE;20;5;30;Rocket league ;yes;keyboard
+TI;21;4;75;League of Legends;no;
+SE;22;5;60;Valorant;no;
+SE;21;4;;Zelda;yes;keyboard
+SE;19;3;45;Sims;no;
+CS;23;4;25;Hearthstone;Yes;
+SE;30;4;50;The Binding of Isaac;no;aerophone
+CS;23;4;25;Hearthstone;Yes;
+ti;75;4;75;League of Legends;no;
+SE;26;4;50;dead space;no;string
+SE;22;0;70;Guilty Gear;yes;string
+GD;23;4;25;Destiny 2;no;
+GD;24;4;60;Destiny 2;no;
+CS;23;4;25;Hearthstone;Yes;
+ti;21;4;75;League of Legends;no;
+ti;21;4;75;League of Legends;no;
+ti;20;4;60;GTA;no;string
+SE;22;0;70;Guilty Gear;Yes;string
+ti;20;4;60;GTA;no;keyboard
+SE;21;5;30;League of Legends;no;string
+SE;19;5;60;overwatch;no;
+GD;24;4;60;Destiny 2;no;
+SE;24;4;40;Red Dead Redemption;no;
+SE;24;2;10;Rocket league ;no;
+CS;20;4;60;Valorant;yes;
+SE;21;3;53;Europa Universalis;yes;
+SE;22;5;63;Fallout: New Vegas;yes;string
+SE;27;4;43;binding of isaac;yes;
+SE;30;4;50;binding of isaac;no;aerophone
+GD;21;5;80;minecraft;Yes;keyboard
+GD;22;5;80;minecraft;yes;string
+SE;27;4;43;binding of isaac;Yes;string
+GD;21;5;60;The Last of Us;yes;string
+GD;21;5;60;the last of us;Yes;string
+SE;21;5;60;The Last of Us;yes;string
+SE;24;4;35;Candy Crush;no;string
+SE;26;4;50;dead space;no;string
+SE;19;3;45;Sims;no;
+SE;26;4;50;dead space;no;string
+CS;20;4;60;Valorant;Yes;

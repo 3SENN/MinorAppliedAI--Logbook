@@ -1,0 +1,4 @@
+In AI wordt de transponering van een matrix vaak gebruikt een voorbeeld hiervan is:
+- Bij lineaire regressie wordt de transponering van een matrix gebruikt om de parameters van het model te berekenen in het geval van de normaalvergelijkingen. Door de matrix en de responsvariabele te transponeren, kunnen de gewichtsparameters worden berekend met behulp van matrixvermenigvuldiging. Het transponeren van de matrix helpt bij het vereenvoudigen van de matrixvergelijkingen.
+
+![TransposeMatrix](https://gitlab.fdmci.hva.nl/chintss/minor-logboek-aai-2/-/raw/main/wiskunde/Lineaire%20algebra/matrixSoorten.JPEG)
